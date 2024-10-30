@@ -9,6 +9,6 @@ Key tables include sales orders, customer demographics, product details, supplie
 
 Produced a 4-pager dashboard using Power BI.
 
-[View the PDF](AdventureWorks_Report.pdf)
+[View the PDF](AdventureWorks_Report.pdf.pdf)
 
 (Dashboard available to download in respective repository)
